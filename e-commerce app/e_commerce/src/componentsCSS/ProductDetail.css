@@ -1,0 +1,21 @@
+.detail-container {
+  display: flex;
+}
+.detail-img {
+  height: 500px;
+  margin-right: 100px;
+}
+.count-box {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+}
+.detail-btn {
+    margin-top: 40px;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: rgb(233, 10, 10);
+    color: white;
+    border: none;
+    font-weight: 600;
+}
